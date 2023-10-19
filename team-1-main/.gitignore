@@ -1,0 +1,4 @@
+/master/.idea/
+*.class
+*.jar
+/target/

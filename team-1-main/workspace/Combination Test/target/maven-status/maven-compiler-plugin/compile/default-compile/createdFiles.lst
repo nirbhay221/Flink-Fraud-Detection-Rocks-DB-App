@@ -1,0 +1,11 @@
+spendreport\FraudDetectionJob$Factory.class
+spendreport\FraudDetectorTumbling$1.class
+spendreport\FraudDetectionJob$Counter.class
+spendreport\FraudDetectionJob$2.class
+spendreport\FraudDetectionJob$3.class
+spendreport\FraudDetectorSliding.class
+spendreport\FraudDetectionJob$TimestampAssigner.class
+spendreport\FraudDetectionJob.class
+spendreport\FraudDetectionJob$1.class
+spendreport\FraudDetectorTumbling.class
+spendreport\FraudDetectionJob$IncrementalMeanAggregate.class

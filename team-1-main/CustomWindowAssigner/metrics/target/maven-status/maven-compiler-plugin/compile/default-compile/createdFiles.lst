@@ -1,0 +1,16 @@
+spendreport\CustomTrigger.class
+spendreport\FraudDetector2.class
+spendreport\CustomTumblingTrigger.class
+spendreport\FraudDetectionJob$TimestampAssigner2.class
+CustomWindowAssigner\TransactionStreamSource.class
+spendreport\FraudDetectionJob$CustomWindowFunction.class
+spendreport\FraudDetectionJob$TimestampAssigner.class
+spendreport\FraudDetectionJob.class
+spendreport\CustomTumblingWindow.class
+spendreport\FraudDetectionJob$1.class
+spendreport\CustomTumblingTrigger$1.class
+spendreport\FraudDetectionJob$IncrementalSumAggregate.class
+spendreport\FraudDetector1.class
+spendreport\CustomSlidingWindow.class
+spendreport\FraudDetectionJob$CustomWindow.class
+spendreport\FraudDetectionJob$IncrementalMeanAggregate.class

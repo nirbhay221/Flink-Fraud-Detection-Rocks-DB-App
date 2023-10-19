@@ -1,0 +1,6 @@
+spendreport/FraudDetectionJob$1.class
+spendreport/FraudDetectionJob$Factory.class
+spendreport/FraudDetectionJob.class
+spendreport/FraudDetector.class
+spendreport/FraudDetectionJob$IncrementalMeanAggregate.class
+spendreport/FraudDetectionJob$Counter.class
